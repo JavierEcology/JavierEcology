@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JavierEcology
 - 👀 I’m interested in marine ecology and underwater photography
 - 🌱 I’m currently learning about R and Git Hub
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with UPWELL researchers and the workshop crew
 - 📫 How to reach me @javi.resiliente on instagram
 
 <!---
